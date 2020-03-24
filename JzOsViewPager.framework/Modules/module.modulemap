@@ -1,0 +1,11 @@
+framework module JzOsViewPager {
+  umbrella header "JzOsViewPager.h"
+
+  export *
+  module * { export * }
+}
+
+module JzOsViewPager.Swift {
+    header "JzOsViewPager-Swift.h"
+    requires objc
+}
