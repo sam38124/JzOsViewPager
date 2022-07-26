@@ -44,10 +44,4 @@
 ```swift
 pager.notifyDataSetChange()
 ```
-<a name="About"></a>
-### 關於我
-橙的電子android and ios developer
 
-*line:sam38124
-
-*gmail:sam38124@gmail.com
